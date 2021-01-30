@@ -1,3 +1,3 @@
-module github.com/rad-akal/go-training
+module github.com/chitten/go-training
 
 go 1.15
